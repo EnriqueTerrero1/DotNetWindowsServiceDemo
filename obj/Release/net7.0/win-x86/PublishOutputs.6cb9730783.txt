@@ -1,0 +1,4 @@
+C:\Documents\DotNetWindowsServiceDemo\publish\appsettings.Development.json
+C:\Documents\DotNetWindowsServiceDemo\publish\appsettings.json
+C:\Documents\DotNetWindowsServiceDemo\publish\DotNetWindowsServiceDemo.pdb
+C:\Documents\DotNetWindowsServiceDemo\publish\DotNetWindowsServiceDemo.exe
